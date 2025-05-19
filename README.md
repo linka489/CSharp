@@ -26,3 +26,9 @@
 [Задача №3](tasksMethod/Method3)  
 [Задача №4](tasksMethod/Method4)  
 [Задача №5](tasksMethod/Method5)
+# 7.5 задач code run
+[Задача №1](CodeRun/CodeRun1)   
+[Задача №2](CodeRun/CodeRun2)   
+[Задача №3](CodeRun/CodeRun3)   
+[Задача №4](CodeRun/CodeRun4)   
+[Задача №5](CodeRun/CodeRun5) 
