@@ -18,3 +18,4 @@
 # 5. Массивы
 Задание:  
 [Тестовые вопросы](tasksArray/testArray.txt) 
+[Задача №1](tasksArray/Array1)
