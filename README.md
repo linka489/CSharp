@@ -11,7 +11,7 @@
 # 4.Изучение циклов
 Задание:  
 [Задачи циклы](tasksCycles)  
-[Задача №1](task1)  
-[Задача №2](task2)  
-[Задача №3](task3)  
-[Задача №4](task4)
+[Задача №1](tasksCycles/task1)  
+[Задача №2](tasksCycles/task2)  
+[Задача №3](tasksCycles/task3)  
+[Задача №4](tasksCycles/task4)
