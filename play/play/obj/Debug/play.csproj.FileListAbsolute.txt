@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\play\play\play\bin\Debug\play.exe.config
+C:\Users\user\Desktop\play\play\play\bin\Debug\play.exe
+C:\Users\user\Desktop\play\play\play\bin\Debug\play.pdb
+C:\Users\user\Desktop\play\play\play\obj\Debug\play.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\play\play\play\obj\Debug\play.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\play\play\play\obj\Debug\play.exe
+C:\Users\user\Desktop\play\play\play\obj\Debug\play.pdb
