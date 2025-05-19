@@ -15,3 +15,6 @@
 [Задача №2](tasksCycles/task2)  
 [Задача №3](tasksCycles/task3)  
 [Задача №4](tasksCycles/task4)
+# 5. Массивы
+Задание:  
+[Тестовые вопросы](tasksArray/testArray.txt) 
