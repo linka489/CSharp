@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\CodeRun\CodeRun2\CodeRun2\bin\Debug\CodeRun2.exe.config
+C:\Users\user\Desktop\CodeRun\CodeRun2\CodeRun2\bin\Debug\CodeRun2.exe
+C:\Users\user\Desktop\CodeRun\CodeRun2\CodeRun2\bin\Debug\CodeRun2.pdb
+C:\Users\user\Desktop\CodeRun\CodeRun2\CodeRun2\obj\Debug\CodeRun2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CodeRun\CodeRun2\CodeRun2\obj\Debug\CodeRun2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeRun\CodeRun2\CodeRun2\obj\Debug\CodeRun2.exe
+C:\Users\user\Desktop\CodeRun\CodeRun2\CodeRun2\obj\Debug\CodeRun2.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeRun5", "CodeRun5\CodeRun5.csproj", "{013D11AF-DA0B-47BE-92A8-4D427C5E794E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013D11AF-DA0B-47BE-92A8-4D427C5E794E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013D11AF-DA0B-47BE-92A8-4D427C5E794E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013D11AF-DA0B-47BE-92A8-4D427C5E794E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013D11AF-DA0B-47BE-92A8-4D427C5E794E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63355FB6-D7DA-4131-B356-7781E089FE2D}
+	EndGlobalSection
+EndGlobal

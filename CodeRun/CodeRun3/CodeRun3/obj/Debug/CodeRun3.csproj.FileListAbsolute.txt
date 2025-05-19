@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\CodeRun\CodeRun3\CodeRun3\bin\Debug\CodeRun3.exe.config
+C:\Users\user\Desktop\CodeRun\CodeRun3\CodeRun3\bin\Debug\CodeRun3.exe
+C:\Users\user\Desktop\CodeRun\CodeRun3\CodeRun3\bin\Debug\CodeRun3.pdb
+C:\Users\user\Desktop\CodeRun\CodeRun3\CodeRun3\obj\Debug\CodeRun3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CodeRun\CodeRun3\CodeRun3\obj\Debug\CodeRun3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeRun\CodeRun3\CodeRun3\obj\Debug\CodeRun3.exe
+C:\Users\user\Desktop\CodeRun\CodeRun3\CodeRun3\obj\Debug\CodeRun3.pdb
