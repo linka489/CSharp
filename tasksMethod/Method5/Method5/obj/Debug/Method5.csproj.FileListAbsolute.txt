@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\tasksMethod\Method5\Method5\bin\Debug\Method5.exe.config
+C:\Users\user\Desktop\tasksMethod\Method5\Method5\bin\Debug\Method5.exe
+C:\Users\user\Desktop\tasksMethod\Method5\Method5\bin\Debug\Method5.pdb
+C:\Users\user\Desktop\tasksMethod\Method5\Method5\obj\Debug\Method5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tasksMethod\Method5\Method5\obj\Debug\Method5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tasksMethod\Method5\Method5\obj\Debug\Method5.exe
+C:\Users\user\Desktop\tasksMethod\Method5\Method5\obj\Debug\Method5.pdb

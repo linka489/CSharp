@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\tasksMethod\Method4\Method4\bin\Debug\Method4.exe.config
+C:\Users\user\Desktop\tasksMethod\Method4\Method4\bin\Debug\Method4.exe
+C:\Users\user\Desktop\tasksMethod\Method4\Method4\bin\Debug\Method4.pdb
+C:\Users\user\Desktop\tasksMethod\Method4\Method4\obj\Debug\Method4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tasksMethod\Method4\Method4\obj\Debug\Method4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tasksMethod\Method4\Method4\obj\Debug\Method4.exe
+C:\Users\user\Desktop\tasksMethod\Method4\Method4\obj\Debug\Method4.pdb
