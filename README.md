@@ -15,7 +15,14 @@
 [Задача №2](tasksCycles/task2)  
 [Задача №3](tasksCycles/task3)  
 [Задача №4](tasksCycles/task4)
-# 5. Массивы
+# 5.Массивы
 Задание:  
-[Тестовые вопросы](tasksArray/testArray.txt) 
+[Тестовые вопросы](tasksArray/testArray.txt)   
 [Задача №1](tasksArray/Array1)
+# 6.Методы 
+[Тестовые вопросы](tasksMethod/testMethod.txt)   
+[Задача №1](tasksMethod/Method1)  
+[Задача №2](tasksMethod/Method2)  
+[Задача №3](tasksMethod/Method3)  
+[Задача №4](tasksMethod/Method4)  
+[Задача №5](tasksMethod/Method5)
